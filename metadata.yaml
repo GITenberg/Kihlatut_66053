@@ -1,11 +1,16 @@
 _repo: Kihlatut_66053
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pietilä, Fredrika
     gutenberg_agent_id: '53618'
     url: http://www.gutenberg.org/2009/agents/53618
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66053#Kihlatut
 gutenberg_issued: '2021-08-12'
 gutenberg_type: Text
 identifiers:
